@@ -2,7 +2,7 @@ module.exports = {
   title: 'John Kuo',
   description: 'This is davidkoojohn blog. \n 这是davidkoojohn的博客。',
   base: process.env.NODE_ENV === 'production'
-    ? 'me-vuepress'
+    ? '/me-vuepress/'
     : '/',
   head: [
     [
