@@ -38,6 +38,10 @@ module.exports = {
     ],
     lastUpdated: '上次更新',
     repo: 'davidkoojohn/me-vuepress',
+    repoLabel: '查看源码',
+    docsBranch: 'master',
+    editLinks: true,
+    editLinkText: '帮助我们改善此页面！',
     smoothScroll: true
   }
 }
